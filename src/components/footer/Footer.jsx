@@ -1,7 +1,8 @@
 export function Footer() {
     const footerStyle = {
-        backgroundColor: 'purple'
+        backgroundColor: 'red',
     };
+
     return (
         <footer style={footerStyle}>
             FOOTER CONTENT
